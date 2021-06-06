@@ -1,0 +1,20 @@
+body{
+  background: rgb(131,58,180);
+  text-align:center;
+  background-repeat:no-repeat;
+}
+#image1{
+  border-radius:50%;
+  width:250px;
+}
+h1{
+  text-shadow : 2px 2px #E040FB;
+  font-size:30px;
+}
+h2{
+  text-shadow : 2px 2px #E040FB;
+  font-size:30px;
+} p{
+  font size:40px;
+  color:#FF4081;
+}
